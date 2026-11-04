@@ -5,7 +5,8 @@
   "compatibility_date": "2026-11-03",
   "kv_namespaces": [
     {
-      "binding": "EMBY_KV"
+      "binding": "EMBY_KV",
+      "id": "9dc01242dfff4de4b1d46b82b32ef04c"
     }
   ]
 }
